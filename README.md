@@ -47,9 +47,3 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ## Acknowledgments
 
 This project was inspired by the concept of Markov chains and the need for generating random and creative text. Special thanks to the creators of the Python libraries used in this project.
-
-## Contact
-
-For any inquiries or questions, feel free to contact the project owner via email: [ayamullahlhan04@gmail.com](mailto:ayamullahlhan04@gmail.com)
-
-Happy tweeting!
