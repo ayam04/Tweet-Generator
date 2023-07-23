@@ -4,6 +4,8 @@ Tweet Generator is a Python script that generates random tweets using a Markov c
 
 ## Usage
 
+#jsndijbnidgb
+
 1. Clone the repository:
    ```
    git clone https://github.com/ayam04/Tweet-Generator.git
