@@ -2,9 +2,8 @@
 
 Tweet Generator is a Python script that generates random tweets using a Markov chain algorithm. Given a source text, the script analyzes the text to learn the probabilities of word transitions and then generates new tweets based on those probabilities.
 
-## Usage
+#usage
 
-#jsndijbnidgb
 
 1. Clone the repository:
    ```
